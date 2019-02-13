@@ -16,7 +16,7 @@
 
 ### 图片放大功能
 - 页面存在图片的话，说不定要做图片放大功能
-- 介绍个插件[v-viewer](https://www.npmjs.com/package/v-viewer)
+- 介绍个插件[v-viewer](https://github.com/mirari/v-viewer)
 - 用法简单，不做解释
 
 ### 图表功能
